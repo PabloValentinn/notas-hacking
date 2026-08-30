@@ -64,6 +64,7 @@ level_1_pw_check()
 pabloval-academy@webshell:~$ python level1.py
 Please enter correct password for flag: 8713
 Welcome back... your flag, user:
+
 picoCTF{545h_r1ng1ng_1b2fd683}
 
 
