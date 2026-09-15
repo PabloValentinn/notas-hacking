@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - General Skills/49- Scavenger Hunt.md",
+                "file": "picoCTF/01 - General Skills/52- JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "49- Scavenger Hunt"
+              "title": "52- JaWT Scratchpad"
             }
           }
         ]
@@ -190,11 +190,19 @@
   },
   "active": "9ccaabb3de5250d9",
   "lastOpenFiles": [
+    "picoCTF/01 - General Skills/51 - More SQLi.md",
+    "picoCTF/01 - General Skills/52- JaWT Scratchpad.md",
+    "plantilla.md",
+    "picoCTF/52 - JaWT Scratchpad.md",
+    "Pasted image 20260914230736.png",
+    "Pasted image 20260914230559.png",
+    "Pasted image 20260914230358.png",
+    "Pasted image 20260914230350.png",
+    "picoCTF/01 - General Skills/50 - Irish-Name-Repo 1.md",
+    "picoCTF/01 - General Skills/49- Scavenger Hunt.md",
     "picoCTF/01 - General Skills/48-Cookies.md",
     "picoCTF/01 - General Skills/47- Get Ahead.md",
-    "picoCTF/01 - General Skills/49- Scavenger Hunt.md",
     "picoCTF/01 - General Skills/42-where are the robots.md",
-    "plantilla.md",
     "picoCTF/01 - General Skills/43- Logon.md",
     "picoCTF/01 - General Skills/41-Insp3ct0r.md",
     "picoCTF/01 - General Skills/46-client-side-again.md",
@@ -216,10 +224,6 @@
     "picoCTF/01 - General Skills/1 - Lets warm up.md",
     "picoCTF/01 - General Skills/30-Serpentine.md",
     "picoCTF/01 - General Skills/31-permissions.md",
-    "picoCTF/01 - General Skills/27-PW Crack 1.md",
-    "picoCTF/01 - General Skills/28-PW Crack 2.md",
-    "picoCTF/01 - General Skills/35-time machine.md",
-    "picoCTF/01 - General Skills/36-blame game.md",
     "code.py",
     "codebook.txt",
     "picoCTF/01 - General Skills",
