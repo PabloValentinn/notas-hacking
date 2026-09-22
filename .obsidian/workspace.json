@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - General Skills/52- JaWT Scratchpad.md",
+                "file": "picoCTF/01 - General Skills/56 - Most Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "52- JaWT Scratchpad"
+              "title": "56 - Most Cookies"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 308.16668701171875
   },
   "right": {
     "id": "f6655a672a8ca0e3",
@@ -190,9 +190,14 @@
   },
   "active": "9ccaabb3de5250d9",
   "lastOpenFiles": [
-    "picoCTF/01 - General Skills/51 - More SQLi.md",
-    "picoCTF/01 - General Skills/52- JaWT Scratchpad.md",
+    "picoCTF/01 - General Skills/55 - Trickster.md",
+    "picoCTF/01 - General Skills/54- SOAP.md",
+    "picoCTF/01 - General Skills/53 - MatchTheRegex.md",
+    "picoCTF/01 - General Skills/56 - Most Cookies.md",
+    "Pasted image 20260921102614.png",
     "plantilla.md",
+    "picoCTF/01 - General Skills/52- JaWT Scratchpad.md",
+    "picoCTF/01 - General Skills/51 - More SQLi.md",
     "picoCTF/52 - JaWT Scratchpad.md",
     "Pasted image 20260914230736.png",
     "Pasted image 20260914230559.png",
@@ -220,10 +225,6 @@
     "picoCTF/01 - General Skills/37-collaborative development.md",
     "picoCTF/01 - General Skills/38-binary search.md",
     "picoCTF/01 - General Skills/03-Warmed up.md",
-    "picoCTF/01 - General Skills/02-2warm.md",
-    "picoCTF/01 - General Skills/1 - Lets warm up.md",
-    "picoCTF/01 - General Skills/30-Serpentine.md",
-    "picoCTF/01 - General Skills/31-permissions.md",
     "code.py",
     "codebook.txt",
     "picoCTF/01 - General Skills",
