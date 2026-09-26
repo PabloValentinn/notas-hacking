@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - General Skills/56 - Most Cookies.md",
+                "file": "picoCTF/01 - General Skills/66 - WebDecode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "56 - Most Cookies"
+              "title": "66 - WebDecode"
             }
           }
         ]
@@ -190,12 +190,22 @@
   },
   "active": "9ccaabb3de5250d9",
   "lastOpenFiles": [
+    "picoCTF/01 - General Skills/65 - Unminify.md",
+    "picoCTF/01 - General Skills/66 - WebDecode.md",
+    "plantilla.md",
+    "picoCTF/01 - General Skills/64 - SQLiLite.md",
+    "picoCTF/01 - General Skills/63 - Secrets.md",
+    "picoCTF/01 - General Skills/62 - Roboto Sans.md",
+    "picoCTF/01 - General Skills/61-Power Cookie.md",
+    "picoCTF/01 - General Skills/59 - IntroToBurp.md",
+    "picoCTF/01 - General Skills/58 - Inspect HTML.md",
+    "picoCTF/01 - General Skills/57 - Includes.md",
+    "picoCTF/01 - General Skills/60 - Local Authority.md",
+    "picoCTF/01 - General Skills/56 - Most Cookies.md",
     "picoCTF/01 - General Skills/55 - Trickster.md",
     "picoCTF/01 - General Skills/54- SOAP.md",
     "picoCTF/01 - General Skills/53 - MatchTheRegex.md",
-    "picoCTF/01 - General Skills/56 - Most Cookies.md",
     "Pasted image 20260921102614.png",
-    "plantilla.md",
     "picoCTF/01 - General Skills/52- JaWT Scratchpad.md",
     "picoCTF/01 - General Skills/51 - More SQLi.md",
     "picoCTF/52 - JaWT Scratchpad.md",
@@ -211,20 +221,10 @@
     "picoCTF/01 - General Skills/43- Logon.md",
     "picoCTF/01 - General Skills/41-Insp3ct0r.md",
     "picoCTF/01 - General Skills/46-client-side-again.md",
-    "picoCTF/01 - General Skills/45-picobrowser.md",
-    "picoCTF/01 - General Skills/44-dont-use-client-side.md",
-    "picoCTF/01 - General Skills/40-ASCII Numbers.md",
     "Pasted image 20260902114036.png",
     "Pasted image 20260902112707.png",
     "Pasted image 20260902110652.png",
     "Pasted image 20260902110631.png",
-    "picoCTF/01 - General Skills/08-Plumbing.md",
-    "picoCTF/01 - General Skills/32-chrono.md",
-    "picoCTF/01 - General Skills/33-special.md",
-    "picoCTF/01 - General Skills/39-binhexa.md",
-    "picoCTF/01 - General Skills/37-collaborative development.md",
-    "picoCTF/01 - General Skills/38-binary search.md",
-    "picoCTF/01 - General Skills/03-Warmed up.md",
     "code.py",
     "codebook.txt",
     "picoCTF/01 - General Skills",
