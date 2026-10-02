@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Primer Parcial - General Skills/Wave a flag.md",
+                "file": "picoCTF/Primer Parcial - General Skills/test.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wave a flag"
+              "title": "test.md"
             }
           }
         ]
@@ -190,8 +190,9 @@
   },
   "active": "9ccaabb3de5250d9",
   "lastOpenFiles": [
-    "plantilla.md",
     "picoCTF/Primer Parcial - General Skills/Wave a flag.md",
+    "picoCTF/Primer Parcial - General Skills/test.md.md",
+    "plantilla.md",
     "picoCTF/Primer Parcial - General Skills/Python Wrangling.md",
     "picoCTF/Primer Parcial - General Skills/HashingJobApp.md",
     "picoCTF/Primer Parcial - General Skills/flag_shop.md",
@@ -216,7 +217,6 @@
     "picoCTF/01 - General Skills/10-nice netcat.md",
     "picoCTF/01 - General Skills/09-Glitch cat.md",
     "picoCTF/01 - General Skills/05-First Grep.md",
-    "picoCTF/01 - General Skills/03-Warmed up.md",
     "picoCTF/forensic 2",
     "picoCTF/Primer Parcial - Web",
     "Pasted image 20260928113317.png",
