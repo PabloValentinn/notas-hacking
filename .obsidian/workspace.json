@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/forensic 3/MacroHard WeakEdge.md",
+                "file": "picoCTF/forensic 4/Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MacroHard WeakEdge"
+              "title": "Operation Oni"
             }
           }
         ]
@@ -190,11 +190,18 @@
   },
   "active": "9ccaabb3de5250d9",
   "lastOpenFiles": [
+    "plantilla.md",
+    "picoCTF/forensic 4/Operation Oni.md",
+    "picoCTF/forensic 4/Disk, disk, sleuth!.md",
+    "picoCTF/forensic 4/Milkslap.md",
+    "picoCTF/forensic 4/Operation Orchid.md",
+    "picoCTF/forensic 4/Sleuthkit Apprentice.md",
+    "picoCTF/forensic 4/Sleuthkit Intro.md",
+    "picoCTF/forensic 3/MacroHard WeakEdge.md",
+    "picoCTF/forensic 4",
     "picoCTF/forensic 3/tunn3l v1s10n.md",
     "picoCTF/forensic 3/WebNet0.md",
-    "picoCTF/forensic 3/MacroHard WeakEdge.md",
     "picoCTF/forensic 3/Matryoshka doll.md",
-    "plantilla.md",
     "picoCTF/forensic 3/WebNet1.md",
     "picoCTF/Primer Parcial - General Skills/test.md.md",
     "picoCTF/forensic 3",
@@ -211,13 +218,7 @@
     "picoCTF/Primer Parcial - Web/SQL Direct.md",
     "picoCTF/Primer Parcial - Web/n0s4n1ty 1.md",
     "README.md",
-    "picoCTF/Primer Parcial - General Skills/SansAlpha.md",
-    "picoCTF/Primer Parcial - General Skills/Rust fixme 3.md",
-    "picoCTF/Primer Parcial - General Skills/Rust fixme 2.md",
-    "picoCTF/Primer Parcial - General Skills/Rust fixme 1.md",
-    "picoCTF/forensic 2/shark on wire 2.md",
     "picoCTF/Primer Parcial - General Skills",
-    "picoCTF/forensic 2/like1000.md",
     "picoCTF/forensic 2",
     "picoCTF/Primer Parcial - Web",
     "Pasted image 20260928113317.png",
@@ -234,7 +235,6 @@
     "codebook.txt",
     "picoCTF/01 - General Skills",
     "01 - General Skills",
-    "picoCTF",
-    "plantilla"
+    "picoCTF"
   ]
 }
