@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/forensic 4/Operation Oni.md",
+                "file": "picoCTF/picoCrypto/interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operation Oni"
+              "title": "interencdec"
             }
           }
         ]
@@ -190,8 +190,17 @@
   },
   "active": "9ccaabb3de5250d9",
   "lastOpenFiles": [
+    "picoCTF/picoCrypto/waves over lambda.md",
+    "picoCTF/picoCrypto/interencdec.md",
     "plantilla.md",
+    "picoCTF/picoCrypto/Tapping.md",
+    "picoCTF/picoCrypto/la cifra de.md",
+    "picoCTF/picoCrypto/Caesar.md",
+    "picoCTF/picoCrypto/Easy1.md",
+    "picoCTF/picoCrypto/13.md",
+    "picoCTF/picoCrypto/The numbers.md",
     "picoCTF/forensic 4/Operation Oni.md",
+    "picoCTF/picoCrypto",
     "picoCTF/forensic 4/Disk, disk, sleuth!.md",
     "picoCTF/forensic 4/Milkslap.md",
     "picoCTF/forensic 4/Operation Orchid.md",
@@ -210,14 +219,6 @@
     "picoCTF/Primer Parcial - General Skills/HashingJobApp.md",
     "picoCTF/Primer Parcial - General Skills/flag_shop.md",
     "picoCTF/Primer Parcial - General Skills/FANTASY CTF.md",
-    "picoCTF/Primer Parcial - General Skills/dont-you-love-banners.md",
-    "picoCTF/Primer Parcial - Web/Java Code Analysis.md",
-    "picoCTF/Primer Parcial - Web/WebSockFish.md",
-    "picoCTF/Primer Parcial - Web/SSTI2.md",
-    "picoCTF/Primer Parcial - Web/SSTI1.md",
-    "picoCTF/Primer Parcial - Web/SQL Direct.md",
-    "picoCTF/Primer Parcial - Web/n0s4n1ty 1.md",
-    "README.md",
     "picoCTF/Primer Parcial - General Skills",
     "picoCTF/forensic 2",
     "picoCTF/Primer Parcial - Web",
@@ -234,7 +235,6 @@
     "code.py",
     "codebook.txt",
     "picoCTF/01 - General Skills",
-    "01 - General Skills",
-    "picoCTF"
+    "01 - General Skills"
   ]
 }
