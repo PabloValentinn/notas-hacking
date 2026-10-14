@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCrypto/interencdec.md",
+                "file": "picoCTF/Crypto 2/rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interencdec"
+              "title": "rsa-pop-quiz"
             }
           }
         ]
@@ -190,12 +190,15 @@
   },
   "active": "9ccaabb3de5250d9",
   "lastOpenFiles": [
+    "plantilla.md",
+    "README.md",
+    "picoCTF/Crypto 2/rsa-pop-quiz.md",
+    "picoCTF/picoCrypto/Caesar.md",
+    "picoCTF/Crypto 2",
     "picoCTF/picoCrypto/waves over lambda.md",
     "picoCTF/picoCrypto/interencdec.md",
-    "plantilla.md",
     "picoCTF/picoCrypto/Tapping.md",
     "picoCTF/picoCrypto/la cifra de.md",
-    "picoCTF/picoCrypto/Caesar.md",
     "picoCTF/picoCrypto/Easy1.md",
     "picoCTF/picoCrypto/13.md",
     "picoCTF/picoCrypto/The numbers.md",
@@ -217,8 +220,6 @@
     "picoCTF/Primer Parcial - General Skills/Wave a flag.md",
     "picoCTF/Primer Parcial - General Skills/Python Wrangling.md",
     "picoCTF/Primer Parcial - General Skills/HashingJobApp.md",
-    "picoCTF/Primer Parcial - General Skills/flag_shop.md",
-    "picoCTF/Primer Parcial - General Skills/FANTASY CTF.md",
     "picoCTF/Primer Parcial - General Skills",
     "picoCTF/forensic 2",
     "picoCTF/Primer Parcial - Web",
@@ -234,7 +235,6 @@
     "Pasted image 20260902110631.png",
     "code.py",
     "codebook.txt",
-    "picoCTF/01 - General Skills",
-    "01 - General Skills"
+    "picoCTF/01 - General Skills"
   ]
 }
