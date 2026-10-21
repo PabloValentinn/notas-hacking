@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/crypto 3/b00tl3gRSA2.md",
+                "file": "picoCTF/Crypto 4/Flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b00tl3gRSA2"
+              "title": "Flags"
             }
           }
         ]
@@ -190,11 +190,17 @@
   },
   "active": "9ccaabb3de5250d9",
   "lastOpenFiles": [
+    "picoCTF/Crypto 4/ReadMyCert.md",
+    "plantilla.md",
+    "picoCTF/Crypto 4/Flags.md",
+    "picoCTF/Crypto 4/HideToSee.md",
+    "picoCTF/Crypto 4/basic-mod1.md",
+    "picoCTF/Crypto 4/Pixelated.md",
+    "picoCTF/crypto 3/b00tl3gRSA2.md",
+    "picoCTF/Crypto 4",
     "picoCTF/crypto 3/b00tl3gRSA3.md",
     "picoCTF/crypto 3/Mind your Ps and Qs.md",
     "picoCTF/crypto 3/Mini RSA.md",
-    "picoCTF/crypto 3/b00tl3gRSA2.md",
-    "plantilla.md",
     "picoCTF/forensic4/Ph4nt0m 1ntrud3r.md",
     "picoCTF/crypto 3",
     "picoCTF/forensic4/RED.md",
@@ -214,12 +220,7 @@
     "picoCTF/picoCrypto/interencdec.md",
     "picoCTF/picoCrypto/Tapping.md",
     "picoCTF/picoCrypto/la cifra de.md",
-    "picoCTF/picoCrypto/Easy1.md",
-    "picoCTF/picoCrypto/13.md",
-    "picoCTF/picoCrypto/The numbers.md",
-    "picoCTF/forensic 4/Operation Oni.md",
     "picoCTF/picoCrypto",
-    "picoCTF/forensic 4/Disk, disk, sleuth!.md",
     "picoCTF/forensic 4",
     "picoCTF/forensic 3",
     "picoCTF/Primer Parcial - General Skills",
@@ -234,7 +235,6 @@
     "Pasted image 20260902114036.png",
     "Pasted image 20260902112707.png",
     "Pasted image 20260902110652.png",
-    "Pasted image 20260902110631.png",
-    "code.py"
+    "Pasted image 20260902110631.png"
   ]
 }
