@@ -28,7 +28,7 @@
 ```
 - **Bandera:** `picoCTF{7R4N5P051N6_15_3XP3N51V3_1094142f}` (o `academy{...}` según la plataforma).
 
-academy{7R4N5P051N6_15_3XP3N51V3_5571D3F8}
+academy{7R4N5P051N6_15_3XP3N51V3_5571D3F8}.
 
 
 ## NOTAS ADICIONALES
