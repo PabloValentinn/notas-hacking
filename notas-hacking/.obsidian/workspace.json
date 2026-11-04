@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Segundo Parcial - Forensic/Disko 4.md",
+                "file": "picoCTF/Reversing 2/Picker IV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disko 4"
+              "title": "Picker IV"
             }
           }
         ]
@@ -190,10 +190,17 @@
   },
   "active": "9ccaabb3de5250d9",
   "lastOpenFiles": [
-    "picoCTF/Segundo Parcial - Forensic/Timeline 1.md",
-    "picoCTF/Segundo Parcial - Forensic/Disko 4.md",
-    "picoCTF/Segundo Parcial - Forensic/Timeline 0.md",
     "plantilla.md",
+    "picoCTF/Reversing 2/Picker IV.md",
+    "picoCTF/Reversing 2/Picker III.md",
+    "picoCTF/Reversing 2/Picker II.md",
+    "picoCTF/Reversing 2/Picker I.md",
+    "picoCTF/Reversing 2/timer.md",
+    "picoCTF/Reversing 2/Safe Opener 2.md",
+    "picoCTF/Segundo Parcial - Forensic/Disko 4.md",
+    "picoCTF/Reversing 2",
+    "picoCTF/Segundo Parcial - Forensic/Timeline 1.md",
+    "picoCTF/Segundo Parcial - Forensic/Timeline 0.md",
     "picoCTF/Segundo Parcial - Forensic/Binary Digits.md",
     "picoCTF/Segundo Parcial - Forensic/Corrupted file.md",
     "picoCTF/Segundo Parcial - Forensic/Flag in Flame.md",
@@ -211,13 +218,7 @@
     "picoCTF/Segundo Parcial - Crypto/Related Messages.md",
     "picoCTF/Segundo Parcial - Crypto/rotation.md",
     "picoCTF/Segundo Parcial - Crypto/Custom encryption.md",
-    "picoCTF/Segundo Parcial - Crypto/basic-mod2.md",
-    "picoCTF/Reversing 1/vault-door-5.md",
     "picoCTF/Segundo Parcial - Crypto",
-    "picoCTF/Reversing 1/vault-door-4.md",
-    "picoCTF/Reversing 1/vault-door-3.md",
-    "picoCTF/Reversing 1/vault-door-1.md",
-    "picoCTF/Reversing 1/vault-door-training.md",
     "picoCTF/Reversing 1",
     "picoCTF/Crypto 5/Sin nombre",
     "picoCTF/Crypto 5",
@@ -225,7 +226,6 @@
     "picoCTF/crypto 3",
     "picoCTF/forensic4",
     "picoCTF/Crypto 2",
-    "picoCTF/picoCrypto",
     "Pasted image 20260928113317.png",
     "Pasted image 20260921102614.png",
     "Pasted image 20260914230736.png",
