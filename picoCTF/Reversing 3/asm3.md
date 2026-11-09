@@ -38,4 +38,4 @@
 
 - Reto original: picoCTF 2019 - Categoría: Reverse Engineering (Hard).
     
-- Autor: Sanjay C.
+- Autor: Sanjay C...
