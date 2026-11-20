@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing 2/Picker IV.md",
+                "file": "picoCTF/picoCTF Reversing - Parte 4/Need For Speed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Picker IV"
+              "title": "Need For Speed"
             }
           }
         ]
@@ -190,8 +190,17 @@
   },
   "active": "9ccaabb3de5250d9",
   "lastOpenFiles": [
+    "picoCTF/picoCTF Reversing - Parte 4/reverse_cipher.md",
     "plantilla.md",
+    "picoCTF/picoCTF Reversing - Parte 4/Need For Speed.md",
+    "picoCTF/picoCTF Reversing - Parte 4/GDB Test Drive.md",
+    "picoCTF/01 - General Skills/GDB Test Drive.md",
+    "picoCTF/picoCTF Reversing - Parte 4",
+    "picoCTF/Reversing 3/asm3.md",
+    "picoCTF/Reversing 3/asm2.md",
+    "picoCTF/Reversing 3/asm1.md",
     "picoCTF/Reversing 2/Picker IV.md",
+    "picoCTF/Reversing 3",
     "picoCTF/Reversing 2/Picker III.md",
     "picoCTF/Reversing 2/Picker II.md",
     "picoCTF/Reversing 2/Picker I.md",
@@ -211,21 +220,12 @@
     "picoCTF/Segundo Parcial - Crypto/transposition-trial.md",
     "picoCTF/Segundo Parcial - Forensic",
     "picoCTF/Segundo Parcial - Crypto/Timestamped Secrets.md",
-    "picoCTF/Segundo Parcial - Crypto/StegoRSA.md",
-    "picoCTF/Segundo Parcial - Crypto/Small Trouble.md",
-    "picoCTF/Segundo Parcial - Crypto/Shared Secrets.md",
-    "picoCTF/Segundo Parcial - Crypto/rsa_oracle.md",
-    "picoCTF/Segundo Parcial - Crypto/Related Messages.md",
-    "picoCTF/Segundo Parcial - Crypto/rotation.md",
-    "picoCTF/Segundo Parcial - Crypto/Custom encryption.md",
     "picoCTF/Segundo Parcial - Crypto",
     "picoCTF/Reversing 1",
     "picoCTF/Crypto 5/Sin nombre",
     "picoCTF/Crypto 5",
     "picoCTF/Crypto 4",
     "picoCTF/crypto 3",
-    "picoCTF/forensic4",
-    "picoCTF/Crypto 2",
     "Pasted image 20260928113317.png",
     "Pasted image 20260921102614.png",
     "Pasted image 20260914230736.png",
